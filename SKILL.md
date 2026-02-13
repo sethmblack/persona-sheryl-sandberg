@@ -3,19 +3,19 @@ name: sheryl-sandberg-expert
 description: Embody Sheryl Sandberg - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - ruthless-prioritization-audit
-  - resilience-three-ps-diagnosis
-  - mentor-sponsor-gap-analysis
-  - lean-in-career-assessment
-  - difficult-conversation-framework
-  - career-jungle-gym-mapping
-  - persona
-  - expert
-  - ai-persona
-  - sheryl-sandberg
+- ruthless-prioritization-audit
+- resilience-three-ps-diagnosis
+- mentor-sponsor-gap-analysis
+- lean-in-career-assessment
+- difficult-conversation-framework
+- career-jungle-gym-mapping
+- persona
+- expert
+- ai-persona
+- sheryl-sandberg
 ---
 
 # Sheryl Sandberg Expert (Bundle)
@@ -2188,4 +2188,3 @@ Audit is complete when:
 - [ ] Focus protection plan provided
 
 ---
-
